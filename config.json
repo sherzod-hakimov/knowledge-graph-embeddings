@@ -1,0 +1,11 @@
+{
+  "batch_size": 1,
+  "learning_rate": 0.001,
+  "epochs": 100,
+  "embedding_dimension": 300,
+  "optimizer": "ADAM",
+  "model": "TransE",
+  "output_dir": "result_dim_300_epoch_100",
+  "input_dir": "data",
+  "use_gpu": "False"
+}
