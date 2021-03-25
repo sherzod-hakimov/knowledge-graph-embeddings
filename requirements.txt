@@ -35,7 +35,7 @@ pykeen==0.0.26
 pyparsing==2.4.2
 python-dateutil==2.8.0
 pytz==2019.2
-PyYAML==5.1.2
+PyYAML==5.4
 rdflib==4.2.2
 requests==2.22.0
 s3transfer==0.2.1
