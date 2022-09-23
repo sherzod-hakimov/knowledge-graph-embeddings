@@ -30,7 +30,7 @@ opt-einsum==3.1.0
 pandas==0.25.1
 Pillow==6.1.0
 prompt-toolkit==2.0.9
-protobuf==3.10.0
+protobuf==3.18.3
 pykeen==0.0.26
 pyparsing==2.4.2
 python-dateutil==2.8.0
